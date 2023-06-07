@@ -1,4 +1,4 @@
-# Scratch Mods
+# Scratch Mods V1.0
 
 | Mod | New Blocks | New Extensions | Custom Extensions | Addons | Advanced Settings| Notes |
 |--|--|--|--|--|--|--|
