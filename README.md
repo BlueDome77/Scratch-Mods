@@ -2,7 +2,7 @@
 | Mods | Extra Blocks | Extra Extensions | Import Extensions | Addons | Advanced Settings | Community | Notes |
 |---|---|---|---|---|---|---|---|
 | [Scratch Lab](https://lab.scratch.mit.edu) | ✓ | ✗ | ✗ | ✗ | ✗ | ✗ | - |
-| [Turbowarp](https://turbowarp.org/editor) | ✗ | ✓ | ✓ | ✓ | ✓ | ✗ | - |
+| [Turbowarp](https://turbowarp.org/editor) | ✗ | ✓ | ✓ | ✓ | ✓ | ✗ | Custom Operator and Boolean block creation |
 | [E羊icques](https://sheeptester.github.io/scratch-gui/) | ✗ | ✗ | ✓ | ✗ | ✓ | ✗ | Can load custom editor scripts |
 | [Dev-Blocks](https://dev-blocks.powerbox1000.repl.co) | ✗ | ✗ | ✓ | ✗ | ✗ | ✗ | Can load a project by id |
 | [PenguinMod](https://studio.penguinmod.site/editor.html) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | Custom Operator and Boolean block creation, New Paint Editor tools |
