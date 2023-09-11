@@ -1,4 +1,4 @@
-# Scratch Mods V1.5
+# Scratch Mods V1.6
 | Mods | Extra Blocks | Extra Extensions | Import Extensions | Addons | Advanced Settings | Community | Notes |
 |---|---|---|---|---|---|---|---|
 | [Scratch Lab](https://lab.scratch.mit.edu) | ✓ | ✗ | ✗ | ✗ | ✗ | ✗ | - |
